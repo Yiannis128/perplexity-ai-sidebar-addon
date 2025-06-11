@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Perplexity AI Sidebar Chat",
   "author": "Yiannis Charalambous",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Firefox sidebar extension that integrates Perplexity AI for intelligent conversations about the current webpage content.",
   "permissions": [
     "tabs",

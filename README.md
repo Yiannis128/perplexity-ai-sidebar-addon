@@ -43,6 +43,12 @@ A Firefox extension that shows a chat interface for Perplexity AI in the sidebar
 - Firefox
 - A valid Perplexity API key
 
+## Building and Signing
+
+```sh
+web-ext sign --api-key <KEY> --api-secret <SECRET> --channel listed -s src -a web-ext-artifacts --amo-metadata amo-metadata.json;
+```
+
 ## License
 
 See [License File](LICENSE)

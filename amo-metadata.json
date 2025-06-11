@@ -1,0 +1,12 @@
+{
+    "slug": "perplexity-ai-sidebar-chat",
+    "summary": {
+        "en-US": "A Firefox sidebar extension that integrates Perplexity AI for intelligent conversations about the current webpage content."
+    },
+    "categories": [
+        "other"
+    ],
+    "version": {
+        "license": "GPL-3.0-only"
+    }
+}
