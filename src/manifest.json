@@ -4,6 +4,11 @@
   "author": "Yiannis Charalambous",
   "version": "0.1.1",
   "description": "A Firefox sidebar extension that integrates Perplexity AI for intelligent conversations about the current webpage content.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{aae7d5ec-6213-4881-94e9-4f0cee5ca081}"
+    }
+  },
   "permissions": [
     "tabs",
     "activeTab",
